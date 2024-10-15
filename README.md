@@ -1,4 +1,4 @@
-Hello, I'm Alexandros Melas! Welcome to my GitHub profile! I'm passionate about Python and data analysis, with expertise in using powerful libraries like NumPy, Pandas, and Matplotlib for exploring and visualizing data. I also enjoy developing basic RESTful APIs to integrate data analysis capabilities into web applications.
+Hello, I'm Alexandros Melas! Welcome to my GitHub profile! I'm passionate about Python and mathematics. I also enjoy developing basic RESTful APIs to integrate data analysis capabilities into web applications.
 
 What You'll Find Here:
 
